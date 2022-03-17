@@ -1,0 +1,21 @@
+.topo{
+    padding: 20px;
+    background: #fff;
+
+}
+.img-destaque{
+    max-width: 350px;
+
+}
+.cor-tema{ color: #202a65;
+
+}
+.banner{
+background-color: rgb(229, 197, 186);
+padding: 20px;
+    
+}
+.quem-sou{
+    background:  #202a65;
+    color: #fff;
+}
